@@ -11,7 +11,7 @@ const LogIn = () => {
           <div className="LogIn">
                     <div className="log">
           <div className="logLeft">
-                  <img src={LogInImg} alt="" />
+                  <img src={LogInImg} alt="logInImg" />
           </div>
           <div className="logRight">
                     <div className="logTop">
