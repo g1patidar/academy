@@ -12,7 +12,7 @@ const JoinNow = () => {
                 <div className="Join">
                 
                 <div className="JoinLeft">
-                  <img src={JoinNowImg} alt="" />
+                  <img src={JoinNowImg} alt="JoinNowImg" />
                 </div>
                 <div className="JoinRight">
                         <div className="Top">
